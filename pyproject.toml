@@ -25,6 +25,7 @@ pytest = "^8.4.1"
 pytest-cov = "^6.2.1"
 taskipy = "^1.14.1"
 ruff = "^0.12.7"
+beautifulsoup4 = "^4.13.4"
 
 [tool.ruff]
 line-length = 79

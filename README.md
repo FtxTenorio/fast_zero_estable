@@ -13,3 +13,11 @@ Durante a análise estática do código, queremos buscar por pontos específicos
 * **PT (flake8-pytest)**: Avalia boas práticas específicas para testes usando Pytest.
 
 ---
+
+## Github CLI
+Installed GH CLI command to allow manage github account (create repo, dele, update, etc...)
+
+
+## Exercicios
+1. Crie um repositório para acompanhar o curso e suba em alguma plataforma, como Github, gitlab, codeberg, etc. E compartilhe o link no repositório do curso para podermos aprender juntos.
+   2. Farei no final do curso.
